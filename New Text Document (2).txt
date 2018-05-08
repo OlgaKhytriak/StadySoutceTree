@@ -1,3 +1,7 @@
 Ann add some more text into this file
+<<<<<<< Updated upstream
 Here is important bugfix -- Ann
+=======
+This is something important I'm still working on -- Ben
+>>>>>>> Stashed changes
 Ben was here
