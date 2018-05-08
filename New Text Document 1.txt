@@ -1,8 +1,6 @@
 My name is Ann
-<<<<<<< HEAD
+
 This line is before the second line -- Ben
 And I'm Ben
-=======
-And I'm Ben
 Anne wants to og ahead and build a game
->>>>>>> 1f13f8c8bc8cef8dfbf06368806a878b14b0fb70
+
